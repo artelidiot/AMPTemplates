@@ -1,0 +1,12 @@
+[
+    {
+        "ConfigFile": "SPT/SPT_Data/configs/http.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "SPT/user/mods/fika-server/assets/configs/fika.jsonc",
+        "ConfigType": "json",
+        "AutoMap": true
+    }
+]

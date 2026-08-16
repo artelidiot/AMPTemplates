@@ -1,0 +1,16 @@
+[
+    {
+        "Protocol": "TCP",
+        "Port": 6969,
+        "Ref": "ServerPort",
+        "Name": "SPT Server Port",
+        "Description": "Port for SPT Server traffic"
+    },
+    {
+        "Protocol": "UDP",
+        "Port": 6970,
+        "Ref": "NATPort",
+        "Name": "NAT Punch Server Port",
+        "Description": "Port for NAT Punch Server traffic"
+    }
+]
