@@ -71,6 +71,7 @@
         "UpdateStageName": "Fika Server Mod Download",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "Fika.Server.Release.2.3.5.zip",
         "UpdateSourceArgs": "project-fika/Fika-Server-CSharp",
         "UpdateSourceVersion": "v2.3.5",
         "UpdateSourceTarget": "{{$FullBaseDir}}",
